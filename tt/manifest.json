@@ -1,11 +1,11 @@
 {
-  "name": "Calculadora",
-  "short_name": "Calculadora",
+  "name": "Andre",
+  "short_name": "Andre",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/index.html",
+  "start_url": "/tt/index.html",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
