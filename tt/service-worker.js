@@ -1,6 +1,6 @@
 var files = [
-  "/index.html",
-  "/manifest.json",
+  "/tt/index.html",
+  "/tt/manifest.json",
 ];
 // dev only
 if (typeof files == 'undefined') {
