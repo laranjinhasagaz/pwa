@@ -10,7 +10,7 @@ if (typeof files == 'undefined') {
   files.push('./');
 }
 
-var CACHE_NAME = 'feijao-v1';
+var CACHE_NAME = 'keppo';
 
 self.addEventListener('activate', function(event) {
   console.log('[SW] Activate');
